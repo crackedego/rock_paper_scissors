@@ -60,7 +60,7 @@ else:
       print(player_result)
       print("Computer chose:")
       print(comp_result)
-      print("Tou Win")
+      print("You Win")
     else:
       print(player_result)
       print("Computer chose:")
